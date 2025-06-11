@@ -1,0 +1,19 @@
+.input-wrap {
+  margin: 10px;
+  height: 4vh;
+  width: 15vw;
+}
+.table-wrap {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.table-conatiner {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.input-container {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
