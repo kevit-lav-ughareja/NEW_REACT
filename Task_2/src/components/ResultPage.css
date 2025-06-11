@@ -1,0 +1,32 @@
+.result-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 40px 20px;
+  min-height: 80vh;
+}
+.result-card {
+  background: #4cc7b2;
+  padding: 30px 40px;
+  border-radius: 10px;
+  text-align: center;
+  width: 50%;
+}
+.result-title {
+  font-size: 24px;
+  color: #030303;
+  margin-bottom: 30px;
+}
+.result-text {
+  font-size: 18px;
+  margin-bottom: 15px;
+  color: #070707;
+}
+.result-btn {
+  width: 50%;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  background-color: #6897df;
+  font-size: 1rem;
+}
